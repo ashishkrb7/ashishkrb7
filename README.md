@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ### 📫 How to connect with me:question:
 :email: <code>[Mail](mailto:ashish.csscorp@gmail.com)</code>     
-:linkedin: <code>[LinkedIn](https://www.linkedin.com/in/ashishk766/)</code>  
+:social: <code>[LinkedIn](https://www.linkedin.com/in/ashishk766/)</code>  
 
