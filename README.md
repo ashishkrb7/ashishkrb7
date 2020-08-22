@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=ashishcssom&color=green)
+![](https://komarev.com/ghpvc/?username=ashishcssom&color=blue)
+
+
 <!--
 **ashishcssom/ashishcssom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-### 📫 How to connect with me:question:
-:email: <code>[Mail](mailto:ashish.csscorp@gmail.com)</code>     
-✉️ <code>[LinkedIn](https://www.linkedin.com/in/ashishk766/)</code>  
+### 📫 How to connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ashishk766/)
 
