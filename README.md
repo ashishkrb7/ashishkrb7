@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### How to connect with me:question::email:
+:star: <code>[Mail](mailto:ashish.csscorp@gmail.com)</code>     
+:star: <code>[LinkedIn](https://www.linkedin.com/in/ashishk766/)</code>  
+
