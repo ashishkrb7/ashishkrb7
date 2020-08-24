@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 
 ### 📫 How to connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/ashishk766/)
+<a href="https://www.linkedin.com/in/ashishk766/">
+  <img align="left" alt="Ashish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=true)
