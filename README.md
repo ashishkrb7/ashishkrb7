@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=ashishcssom&color=blue)
 
-I am Data Scientist at CSS Corp. Water Resource Engineering is my major with interest on **Hydrology**, **U**ncertainty **A**nalysis and **A**rtificial **I**nteligence. Parallelly I have knowledge on programming, data analytics, **A**rtificial **I**ntelligence, **M**achine **L**earning, **D**eep **L**earning and  **G**eographic **I**nformation **S**ystem.
+I am Data Scientist at CSS Corp. Water Resource Engineering is my major with interest in **Hydrology**, **U**ncertainty **A**nalysis and **A**rtificial **I**nteligence. Parallelly I have knowledge on programming, data analytics, **A**rtificial **I**ntelligence, **M**achine **L**earning, **D**eep **L**earning and  **G**eographic **I**nformation **S**ystem.
 
 **Languages and Tools:**  
 
