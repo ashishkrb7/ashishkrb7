@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=true)
 
 ### 📫 How to connect with me:
 <a href="https://www.linkedin.com/in/ashishk766/">
   <img align="left" alt="Ashish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.facebook.com/imashish7/">
+  <img align="left" alt="Ashish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=true)
