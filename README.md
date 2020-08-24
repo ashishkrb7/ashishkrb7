@@ -3,6 +3,10 @@
 
 I am Data Scientist at CSS Corp. Water Resource Engineering is my major with interest on **Hydrology**, **U**ncertainty **A**nalysis and **A**rtificial **I**nteligence. Parallelly I have knowledge on programming, data analytics, **A**rtificial **I**ntelligence, **M**achine **L**earning, **D**eep **L**earning and  **G**eographic **I**nformation **S**ystem.
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 <!--
 **ashishcssom/ashishcssom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
