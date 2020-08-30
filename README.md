@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=true)
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=false)
 
 ### 📫 How to connect with me:
 <a href="https://www.linkedin.com/in/ashishk766/">
