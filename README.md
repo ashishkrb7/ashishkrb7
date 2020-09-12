@@ -34,4 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/imashish7/">
   <img align="left" alt="Ashish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://github.com/ashishcssom" target="_blank">
+  <img class="ai-subscribed-social-icon" src="https://ashishcssom.github.io/assets/images/gthb.png" width="30">
+</a>
 
