@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - [Sentiment analyzer](https://sentianalyzer.herokuapp.com/)
 - [Natural language classifier](https://github.com/ashishcssom/Natural-Language-classifier)
 - [People also asked](https://github.com/ashishcssom/people-also-ask-API)
+- [Feature snippet](https://github.com/ashishcssom/Feature-snippet)
 
 `Projects`
 - [Face mask detection](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project)
