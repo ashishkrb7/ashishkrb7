@@ -28,6 +28,19 @@ Here are some ideas to get you started:
 
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=false)
 
+### 🚀 What are my featured projects?
+`APIs`
+- [RNN chatbot](http://chatbotsenti.herokuapp.com/)
+- [Sentiment analyzer](https://sentianalyzer.herokuapp.com/)
+- [Natural language classifier](https://github.com/ashishcssom/Natural-Language-classifier)
+- [People also asked](https://github.com/ashishcssom/people-also-ask-API)
+
+`Projects`
+- [Face mask detection](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project)
+
+`Libraries`
+- [MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)
+
 ### 📫 How to connect with me:
 <a href="https://www.linkedin.com/in/ashishk766/">
   <img align="left" alt="Ashish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
