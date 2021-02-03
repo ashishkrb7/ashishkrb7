@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - [MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)
 
 `List of publications`
-- Coming soon...
+- [A decision support system for the identification of critical zones in a watershed to implement land management practices](https://link.springer.com/article/10.1007/s00477-021-01983-5)
 
 ### 📫 How to connect with me:
 <a href="https://www.linkedin.com/in/ashishk766/">
