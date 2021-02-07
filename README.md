@@ -58,7 +58,7 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 
 | | |
 |---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=false" width="800" height="300">|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishcssom&show_icons=true&locale=en&layout=compact" width="800" height="300">|
+|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false" width="800" height="300">|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkrb7&show_icons=true&locale=en&layout=compact" width="800" height="300">|
 
 - 🔭 I’m currently working on [AI implementation for Royal game of UR](https://github.com/ashishcssom/AI-implementation-for-game-of-UR)
 
