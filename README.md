@@ -49,6 +49,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [AI implementation for Royal game of UR](https://github.com/ashishcssom/AI-implementation-for-game-of-UR)
 
 ### 🚀 What are my featured projects?
+
+| | |
+|---|---|
+| [RNN chatbot](http://chatbotsenti.herokuapp.com/)                                         | af|
+| [Sentiment analyzer](https://sentianalyzer.herokuapp.com/)|af |
+| [Natural language classifier](https://github.com/ashishcssom/Natural-Language-classifier)| af|
+| [People also asked](https://github.com/ashishcssom/people-also-ask-API)| fe|
+| [Feature snippet](https://github.com/ashishcssom/Feature-snippet)| sef|
+
+
 `APIs`
 
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/api-64-600697.png" width="40" height="40"/>
