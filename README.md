@@ -63,10 +63,9 @@ Here are some ideas to get you started:
 - [MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)
 
 `List of publications`
-<IMG align="left" src="https://s3.amazonaws.com/libapps/accounts/21106/images/springer.jpg" width="100"/>
 - [A decision support system for the identification of critical zones in a watershed to implement land management practices](https://link.springer.com/article/10.1007/s00477-021-01983-5)
 
-👉🏻 To read paper online [click here](https://t.co/F3eGCihHtE)
+👉🏻 To read paper online [click here](https://t.co/F3eGCihHtE)<IMG align="left" src="https://s3.amazonaws.com/libapps/accounts/21106/images/springer.jpg" width="100"/>
 
 ### 📫 How to connect with me:
 <a href="https://www.linkedin.com/in/ashishk766/">
