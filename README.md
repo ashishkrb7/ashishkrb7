@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 - [Feature snippet](https://github.com/ashishcssom/Feature-snippet)
 
 `Projects`
+
+<img src="https://www.pngfind.com/pngs/m/594-5947661_png-file-svg-project-icon-free-transparent-png.png" width="40" height="40"/>
+
 - [Face mask detection](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project)
 
 `Developed libraries`
