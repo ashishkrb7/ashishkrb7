@@ -72,3 +72,6 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 <a href="https://twitter.com/ashishkrb7" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashishkrb7" height="30" width="40" />
 </a>
+<a href="https://kaggle.com/magnumashish" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="magnumashish" height="30" width="40" />
+</a>
