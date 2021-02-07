@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishcssom&label=Profile%20views&color=0e75b6&style=flat" alt="ashishcssom" /> </p>
-<p align="left"> <a href="https://twitter.com/ashishkrb7" target="blank"><img src="https://img.shields.io/twitter/follow/ashishkrb7?logo=twitter&style=for-the-badge" alt="ashishkrb7" /></a> </p>
 
 I am Data Scientist at CSS Corp. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**
 
@@ -54,4 +53,6 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/imashish7/">
   <img align="left" alt="Ashish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<a href="https://twitter.com/ashishkrb7" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashishkrb7" height="30" width="40" />
+</a>
