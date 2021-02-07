@@ -60,35 +60,6 @@ Here are some ideas to get you started:
 | [People also asked](https://github.com/ashishcssom/people-also-ask-API)|-|-|-|
 | [Feature snippet](https://github.com/ashishcssom/Feature-snippet)|-|-|-|
 
-
-`APIs`
-
-<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/api-64-600697.png" width="40" height="40"/>
-
-- [RNN chatbot](http://chatbotsenti.herokuapp.com/)
-- [Sentiment analyzer](https://sentianalyzer.herokuapp.com/)
-- [Natural language classifier](https://github.com/ashishcssom/Natural-Language-classifier)
-- [People also asked](https://github.com/ashishcssom/people-also-ask-API)
-- [Feature snippet](https://github.com/ashishcssom/Feature-snippet)
-
-`Projects`
-
-<img src="https://www.pngfind.com/pngs/m/594-5947661_png-file-svg-project-icon-free-transparent-png.png" width="40" height="40"/>
-
-- [Face mask detection](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project)
-
-`Developed libraries`
-
-<img src="https://pypi.org/static/images/logo-small.6eef541e.svg" width="40" height="40"/>
-
-- [MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)
-
-`List of publications`
-
-<IMG src="https://s3.amazonaws.com/libapps/accounts/21106/images/springer.jpg" width="100"/>
-
-- [A decision support system for the identification of critical zones in a watershed to implement land management practices](https://link.springer.com/article/10.1007/s00477-021-01983-5)
-
 To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 
 ### 📫 How to connect with me:
