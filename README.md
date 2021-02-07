@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 
 ### 🚀 What are my featured projects?
 `APIs`
+
+<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/api-64-600697.png" width="40" height="40"/>
+
 - [RNN chatbot](http://chatbotsenti.herokuapp.com/)
 - [Sentiment analyzer](https://sentianalyzer.herokuapp.com/)
 - [Natural language classifier](https://github.com/ashishcssom/Natural-Language-classifier)
@@ -61,7 +64,7 @@ Here are some ideas to get you started:
 
 `Developed libraries`
 
-<img src="https://pypi.org/static/images/logo-small.6eef541e.svg" alt="mssql" width="40" height="40"/>
+<img src="https://pypi.org/static/images/logo-small.6eef541e.svg" width="40" height="40"/>
 
 - [MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)
 
