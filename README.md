@@ -1,7 +1,10 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=ashishcssom&color=blue)
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h3 align="center">I am Data Scientist at CSS Corp. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**.</h3>
 
-I am Data Scientist at CSS Corp. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**.
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashishcssom&label=Profile%20views&color=0e75b6&style=flat" alt="ashishcssom" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishcssom" alt="ashishcssom" /></a> </p>
 
 **Languages and Tools:**  
 
