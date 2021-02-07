@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| | |
+|---|---|
 |<img src="https://github-readme-stats.vercel.app/api?username=ashishcssom&show_icons=true&hide_border=false" width="700" height="200">|<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishcssom&show_icons=true&locale=en&layout=compact" width="700" height="200">|
 
 - 🔭 I’m currently working on [AI implementation for Royal game of UR](https://github.com/ashishcssom/AI-implementation-for-game-of-UR)
