@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 `Projects`
 - [Face mask detection](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project)
 
-`Libraries`
+`Developed libraries`
 - [MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)
 
 `List of publications`
