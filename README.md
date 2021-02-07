@@ -10,6 +10,20 @@ I am Data Scientist at CSS Corp. Water Resource Engineering is my major with int
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>                                                                                                 
+<code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
+
+
+
+
+
+
+
 
 <!--
 **ashishcssom/ashishcssom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
