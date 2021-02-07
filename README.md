@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚀 What are my featured projects?
+### 🚀 What are my featured projects(open source)?
 
 | | | | |
 |---|---|---|---|
