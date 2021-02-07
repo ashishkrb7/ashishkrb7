@@ -60,7 +60,9 @@ Here are some ideas to get you started:
 - [Face mask detection](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project)
 
 `Developed libraries`
+
 <img src="https://pypi.org/static/images/logo-small.6eef541e.svg" alt="mssql" width="40" height="40"/>
+
 - [MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)
 
 `List of publications`
