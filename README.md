@@ -5,7 +5,7 @@
 |---|---|
 |I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false" width="500" height="100">|
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">I use following languages and tools:</h3>
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
