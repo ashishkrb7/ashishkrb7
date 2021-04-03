@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning 
  - **Microsoft Azure**
- - Python full stack
- - Amazon Sagemaker
+ - **IBM Cloud**
+ - **Amazon Sagemaker**
 
 ### 🚀 What are my featured projects(open source)?
 
