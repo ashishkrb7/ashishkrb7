@@ -42,6 +42,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🌱 I’m currently learning 
+ - **Microsoft Azure**
+ - Python full stack
+ - Amazon Sagemaker
+
 ### 🚀 What are my featured projects(open source)?
 
 | | | | |
