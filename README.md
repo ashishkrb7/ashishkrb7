@@ -77,4 +77,4 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="magnumashish" height="30" width="40" />
 </a>
 
-[Download my CV](https://github.com/ashishkrb7/ashishkrb7/blob/master/Ashish_CV.pdf)
+<--[Download my CV](https://github.com/ashishkrb7/ashishkrb7/blob/master/Ashish_CV.pdf)--/>
