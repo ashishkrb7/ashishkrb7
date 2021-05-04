@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 | [RNN chatbot](http://chatbotsenti.herokuapp.com/)| [Face mask detection](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project)|[MongodbDatabaseEngine](https://pypi.org/project/MongodbDatabaseEngine/)|[A decision support system for the identification of critical zones in a watershed to implement land management practices](https://link.springer.com/article/10.1007/s00477-021-01983-5)|
 | [Sentiment analyzer](https://sentianalyzer.herokuapp.com/)|[Object-detection-model](https://ashishtfod.herokuapp.com/)|-|-|
 | [Natural language classifier](https://github.com/ashishcssom/Natural-Language-classifier)|[Face recognition for small retail shop](https://github.com/ashishkrb7/Facial-recognition-camera-for-small-retail)|-|-|
-| [People also asked](https://github.com/ashishcssom/people-also-ask-API)|[EngagementAI](https://github.com/ashishkrb7/EngagementAI)|-|-|
+| [People also asked](https://github.com/ashishcssom/people-also-ask-API)|<!--[EngagementAI](https://github.com/ashishkrb7/EngagementAI)-->|-|-|
 | [Feature snippet](https://github.com/ashishcssom/Feature-snippet)|-|-|-|
 
 To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
