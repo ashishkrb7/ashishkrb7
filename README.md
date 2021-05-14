@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 
-- 🔭 I’m currently working on [AI implementation for Royal game of UR](https://github.com/ashishcssom/AI-implementation-for-game-of-UR)
+<!-- 🔭 I’m currently working on [AI implementation for Royal game of UR](https://github.com/ashishcssom/AI-implementation-for-game-of-UR)-->
 
 ### 📫 How to connect with me:
 <a href="https://www.linkedin.com/in/ashishk766/">
