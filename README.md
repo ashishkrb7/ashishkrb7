@@ -84,6 +84,5 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 ### 🏆 Collected Badges
 |||
 |---|---|
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f3c3efd2-0759-4c69-aec2-7169b6747cfe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e24b0984-20b2-4822-b2e2-ade185cdaaf8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+|<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f3c3efd2-0759-4c69-aec2-7169b6747cfe" data-share-badge-host="https://www.credly.com"></div>|
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e24b0984-20b2-4822-b2e2-ade185cdaaf8" data-share-badge-host="https://www.credly.com"></div>|
