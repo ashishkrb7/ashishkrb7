@@ -1,5 +1,7 @@
-<h1 align="center">Hi<img src="./Hi.gif" width="30" height="50"> Visitor👀</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishcssom&label=Profile%20views&color=0e75b6&style=flat" alt="ashishcssom" /> </p>
+<!-- <h1 align="center">Hi<img src="./Hi.gif" width="30" height="50"> Visitor👀</h1> -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkrb7&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkrb7" /> </p>
 
 | | |
 |---|---|
