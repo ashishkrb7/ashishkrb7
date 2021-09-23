@@ -43,6 +43,8 @@ I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>  -->
 
+  ---
+  
 <!--
 **ashishcssom/ashishcssom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
