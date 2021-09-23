@@ -85,9 +85,6 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 
 ### 📫 How to connect with me:
 
-  | | |
-  |---|---|
-  |
 <a href="https://www.linkedin.com/in/ashishkrb7/">
   <img align="left" alt="Ashish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -100,8 +97,7 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 <a href="https://kaggle.com/magnumashish" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="magnumashish" height="30" width="40" />
 </a>
- |<center> <img src="./ashishcontact.png"> </center>|
-
+ 
 <!--[Download my CV](https://github.com/ashishkrb7/ashishkrb7/blob/master/Ashish_CV.pdf)-->
 
 ---
@@ -110,4 +106,6 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 |---|---|
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false">|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false">|
   
- 
+---
+ <center> <img src="./ashishcontact.png"> </center>
+  
