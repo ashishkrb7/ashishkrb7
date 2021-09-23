@@ -22,7 +22,7 @@ I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource
 
 <!-- I am available on <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" width="50" height="20"> [⬅️](https://www.upwork.com/o/profiles/users/~0195178efffee3692b/) -->
 
-<h3 align="left">I use following languages and tools:</h3>
+<h3 align="left">I use following technology stack:</h3>
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <!-- <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> -->
