@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishcssom&label=Profile%20views&color=0e75b6&style=flat" alt="ashishcssom" /> </p>
 
-<center> <img src="./ashishcontact.png"> </center>
-
 ---
 
 I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**
@@ -86,10 +84,14 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 <!-- 🔭 I’m currently working on [AI implementation for Royal game of UR](https://github.com/ashishcssom/AI-implementation-for-game-of-UR)-->
 
 ### 📫 How to connect with me:
-<a href="https://www.linkedin.com/in/ashishk766/">
+  
+  <center> <img src="./ashishcontact.png"> </center>
+  
+  
+<a href="https://www.linkedin.com/in/ashishkrb7/">
   <img align="left" alt="Ashish's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/imashish7/">
+<a href="https://www.facebook.com/ashishkrb7/">
   <img align="left" alt="Ashish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/ashishkrb7" target="blank">
