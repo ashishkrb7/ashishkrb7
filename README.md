@@ -3,9 +3,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishcssom&label=Profile%20views&color=0e75b6&style=flat" alt="ashishcssom" /> </p>
 
+---
+
 | | |
 |---|---|
 |I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false" width="500" height="100">|
+
+---
+
+<h3>Cloud Computing</h3>
+<p>
+  
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+
+</p>
+
+### Web Frameworks
+
+[![](https://img.shields.io/badge/-🎈%20Streamlit-910)](https://streamlit.io/)
+![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white/)
+![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white/)
+  
+### My Tech Stack (others)
+
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+
 
 <!-- I am available on <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" width="50" height="20"> [⬅️](https://www.upwork.com/o/profiles/users/~0195178efffee3692b/) -->
 
