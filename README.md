@@ -11,7 +11,7 @@
 
 ---
 
-<h3>Cloud Computing</h3>
+### Cloud Computing
 <p>
   
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -32,7 +32,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
+---
 
+[![Ashish's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&theme=default )](https://github.com/ashishkrb7/github-readme-stats)
 
 <!-- I am available on <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" width="50" height="20"> [⬅️](https://www.upwork.com/o/profiles/users/~0195178efffee3692b/) -->
 
