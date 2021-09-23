@@ -98,7 +98,7 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 </a>
 
   
- <div class="center"> <img src="./ashishcontact.png"> </div>
+ <center> <img src="./ashishcontact.png"> </center>
 
 <!--[Download my CV](https://github.com/ashishkrb7/ashishkrb7/blob/master/Ashish_CV.pdf)-->
 
