@@ -11,7 +11,7 @@ I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource
 
 | | |
 |---|---|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false" width="500" height="100">|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false" width="500" height="100">|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false">|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false">|
 
 ---
 
