@@ -24,18 +24,6 @@ I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource
 
 </p>
 
-### Web Frameworks
-
-[![](https://img.shields.io/badge/-🎈%20Streamlit-910)](https://streamlit.io/)
-![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white/)
-![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white/)
-  
-### My Tech Stack (others)
-
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
 ---
 
 <!-- I am available on <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" width="50" height="20"> [⬅️](https://www.upwork.com/o/profiles/users/~0195178efffee3692b/) -->
@@ -59,7 +47,7 @@ I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
+<!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>  -->
 </p>
 
 <!--
@@ -77,10 +65,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 I’m currently learning 
+<!-- ### 🌱 I’m currently learning 
  - **Microsoft Azure**
  - **IBM Cloud**
- - **Amazon Sagemaker**
+ - **Amazon Sagemaker** -->
 
 ### 🚀 What are my featured projects(open source)?
 
