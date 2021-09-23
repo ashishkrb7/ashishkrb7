@@ -13,7 +13,7 @@ I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource
 <p>
   
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/badge/-microsoft_azure-icon-1a73e8?style=flat-square&logo=microsoft_azure&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-microsoft_azure-1a73e8?style=flat-square&logo=microsoft_azure&logoColor=white" />
 <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
