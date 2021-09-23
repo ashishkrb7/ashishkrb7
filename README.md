@@ -9,12 +9,6 @@ I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource
 
 ---
 
-| | |
-|---|---|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false">|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false">|
-
----
-
 ### Cloud Computing
 <p>
   
@@ -101,3 +95,9 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 </a>
 
 <!--[Download my CV](https://github.com/ashishkrb7/ashishkrb7/blob/master/Ashish_CV.pdf)-->
+
+---
+
+| | |
+|---|---|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false">|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false">|
