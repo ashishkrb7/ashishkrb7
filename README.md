@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishcssom&label=Profile%20views&color=0e75b6&style=flat" alt="ashishcssom" /> </p>
 
 ---
+ <center> <img src="./ashishcontact.png"> </center>
+ 
+---
 
 I am Data Scientist at `CSS Corp` working on NLP and CV projects. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**
 
@@ -105,7 +108,4 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 | | |
 |---|---|
 |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false">|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false">|
-  
----
- <center> <img src="./ashishcontact.png"> </center>
   
