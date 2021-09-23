@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishcssom&label=Profile%20views&color=0e75b6&style=flat" alt="ashishcssom" /> </p>
 
 ---
- <center> <img src="./ashishcontact.png"> </center>
+ <p align="center">  <img src="./ashishcontact.png"> </p>
  
 ---
 
