@@ -8,7 +8,7 @@
  
 ---
 
-I am Research Engineer at `Siemens` Technology, doing research and working on Data Science (Computer vision(CV) and Natural Language Processing (NLP)). Previously I worked as Data Scientist at `CSS Corp`(which is now `movate`) and handled and developed various NLP and CV projects and softwares in Customer Support domain. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**
+I am Research Engineer at `Siemens` Technology, doing research and working on Data Science (Computer vision(CV) and Natural Language Processing (NLP)). Previously I worked as Data Scientist at `CSS Corp`(which is now `movate`). There I handled and developed various NLP and CV projects and softwares in Customer Support domain. Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**. Parallelly I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**
 
 ---
 
