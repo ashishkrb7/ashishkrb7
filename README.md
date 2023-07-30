@@ -107,7 +107,5 @@ To read paper online 👉🏻 [click here](https://t.co/F3eGCihHtE)
 
 ---
 
-| | |
-|---|---|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false">|<img src="https://github-readme-stats.vercel.app/api?username=ashishkrb7&show_icons=true&hide_border=false">|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkrb7&show_icons=true&hide_border=false">
   
