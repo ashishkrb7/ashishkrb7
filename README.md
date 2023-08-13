@@ -10,7 +10,7 @@
  
 ---
 
-I am Research Engineer at `Siemens` Technology, doing research and working on Data Science (Computer vision(CV) and Natural Language Processing (NLP)). Previously I worked as Data Scientist at `CSS Corp`(which is now `movate`). There I handled and developed various NLP and CV projects and softwares in Customer Support domain. I started reading Computer Science books as hobby and I liked its well structured knowledge. Now I am working full time in computer science field. I have knowledge on **programming**, **data analytics**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**.
+I am Research Engineer at `Siemens` Technology, doing research and working on Data Science (Computer vision(CV) and Natural Language Processing (NLP)). Previously I worked as Data Scientist at `CSS Corp`(which is now `movate`). There I handled and developed various NLP and CV projects and softwares in Customer Support domain. I started reading Computer Science books during my B.Tech. as hobby and I liked its well structured knowledge. Now, I am working full time in computer science field for last 4+ years. I have knowledge on **programming**, **data analytics**,**Full Stacks** ,**Artificial Intelligence**, **Machine Learning**, **Deep Learning** and  **Geographic Information System**.
 
 Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**.
 
