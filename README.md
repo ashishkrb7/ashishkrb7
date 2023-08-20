@@ -15,6 +15,35 @@ I am Research Engineer at `Siemens` Technology, doing research and working on Da
 Water Resource Engineering is my major with interest in **Hydrology(Surface and Groundwater)**, **Uncertainty Analysis** and **Artificial Inteligence**.
 
 ---
+<details>
+<summary>About me</summary>
+
+🔍 Proven Researcher and Data Science expert with over 4 years of hands-on experience in Statistical Modeling, Natural Language Processing, and Computer Vision. Additionally, boasting 5+ years of Python development expertise for digital applications. Passionate about diving into complex challenges and harnessing cutting-edge technology to craft predictive analytics algorithms, mathematical models, and perform hypothesis testing. Adept at utilizing a diverse toolkit to translate data into compelling narratives. Known for cultivating, expanding, and refining product portfolios that drive impact.
+
+🚀 Key Strengths:
+
+📚 Relentless Learner: Driven by intellectual curiosity, committed to lifelong learning.
+⛅ Steadfast Composure: Thrives in adversity, maintaining a composed demeanor.
+🎯 Decision Excellence: Prioritizes high-quality, data-driven decision-making.
+💡 Rapid Assimilation: Quick to master new technologies, continuously enhancing skill set.
+
+🔍 Professional Skill Set:
+
+Data Analytics 📊 | Statistical Analysis 📈 | Simulation, Modeling & Optimization 🛠️ | Artificial Intelligence 🤖 | Machine Learning 🧠 | Deep Learning 🌐 | Geographic Information System (GIS) 🗺️ | Hydrological Modeling 🌊 | Natural Language Processing 🗣️ | Computer Vision 👁️ | Python 🐍 | R 📊 | MATLAB 🔬 | C 🖥️ | Cloud: AWS ☁️ & Azure ☁️ | Power BI 💡 | DOMO 📊 | Excel 📑 | PowerPoint 📰 | MS Word 📝 | SQL 🪛 | Git 🔄 | SCRUM 🏉 | DevOps ⚙️ | MLOps ⚙️ | SRE ⚙️ | Web Development 🌐 | Generative AI 🧠🎨
+
+🌐 Domain Expertise:
+
+Enterprise Software 🏢 | Geographic Information System (GIS) 🗺️ | Small Business Software 👨‍💼👩‍💼 | Water Resources Engineering 🌊💼 | Industrial Automation 🏭🤖
+
+📣 Let's Connect! Open to engaging discussions on emerging technologies, leadership, and entrepreneurship. Reach out for illuminating conversations.
+
+🔗 LinkedIn: https://www.linkedin.com/in/ashishkrb7
+
+📧 Email: ashishkrb7@gmail.com
+
+📞 Phone: 8335818761
+
+</details>
 
 ### Cloud Computing
 <p>
