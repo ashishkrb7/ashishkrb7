@@ -23,8 +23,11 @@ Water Resource Engineering is my major with interest in **Hydrology(Surface and 
 🚀 Key Strengths:
 
 📚 Relentless Learner: Driven by intellectual curiosity, committed to lifelong learning.
+
 ⛅ Steadfast Composure: Thrives in adversity, maintaining a composed demeanor.
+
 🎯 Decision Excellence: Prioritizes high-quality, data-driven decision-making.
+
 💡 Rapid Assimilation: Quick to master new technologies, continuously enhancing skill set.
 
 🔍 Professional Skill Set:
